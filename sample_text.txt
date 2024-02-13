@@ -1,0 +1,5 @@
+
+    This is a sample text file.
+    It contains some words, and each line has different words.
+    The words can appear multiple times.
+    
